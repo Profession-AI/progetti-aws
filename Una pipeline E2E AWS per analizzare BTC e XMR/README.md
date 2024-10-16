@@ -68,5 +68,3 @@ CryptoData Insights si posiziona come partner strategico per trader, analisti fi
 # Dataset
 
 Il dataset è scaricabile da questo link: https://drive.google.com/drive/folders/1q-6IWRebAe51xhhY_dWI5QWfiBWEH8E2
-
-# Modalità di consegna: un file zip che racchiude il codice utilizzato e le definizioni delle Step Functions
